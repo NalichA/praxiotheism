@@ -1,0 +1,557 @@
+{
+  "Global": {
+    "copyManifest": "Copy Manifest",
+    "openInChatGPT": "Open in ChatGPT",
+    "openInClaude": "Open in Claude"
+  },
+
+  "Praxiotheism": {
+    "title": "Praxiotheism"
+  },
+
+  "Navigation": {
+    "home": "Main",
+    "manifest": "Manifest",
+    "howToUse": "How to use",
+    "archive": "Archive",
+    "faq": "FAQ"
+  },
+
+  "HomePage": {
+    "title": "Main | Praxiotheism",
+    "heading": "Welcome to Praxiotheism",
+    "description": "Praxiotheism is a philosophy that combines the principles of pragmatism and theism.",
+    "quote": "God isn't what you believe. God's how you choose to live.",
+    "navigation": "Read more"
+  },
+  "ArchivePage": {
+    "title": "Archive | Praxiotheism"
+  },
+  "HowToUsePage": {
+    "title": "How to use | Praxiotheism",
+    "subtitle": "Learn how to interact with AI through the Manifest and activate Praxiotheist facets",
+    "gettingStarted": {
+      "title": "Getting Started",
+      "step1": {
+        "number": "1",
+        "title": "Copy the Manifest",
+        "description": "Use the 'Copy' button located under the 'Navigation' section on the Manifest page. This will copy the full Manifest text into your device's clipboard for easy use."
+      },
+      "step2": {
+        "number": "2",
+        "title": "Insert into AI",
+        "description": "Paste the Manifest text into any AI interface (e.g., ChatGPT, Claude, local assistant). You can then introduce your real or hypothetical situation."
+      },
+      "step3": {
+        "number": "3",
+        "title": "Describe Your Context",
+        "description": "Tell the AI about your specific situation and optionally define its nature: real, fictional, metaphorical, symbolic. Include emotional, ethical, or existential details if relevant."
+      },
+      "step4": {
+        "number": "4",
+        "title": "Specify the Facet",
+        "description": "Indicate which facet (грань) you wish to activate, or which one you've already activated. You can also ask which facet might be most appropriate for your context."
+      },
+      "step5": {
+        "number": "5",
+        "title": "Ask for Evaluation",
+        "description": "Request the AI to reflect on whether the chosen facet fits the situation, how it could be tuned or reframed, and how to proceed within the logic of Praxiotheism."
+      },
+      "step6": {
+        "number": "6",
+        "title": "Generate Unique Ethics",
+        "description": "Let the AI help you co-create a unique behavioral ethic for the situation—one that uses Praxiotheist logic, symbolic tension, and AI reasoning as co-creators of meaning."
+      }
+    },
+    "advancedTips": {
+      "title": "Advanced Tips",
+      "tip1": "You can repeat the process with new situations: Every interaction can generate a unique act, each embodying a distinct ethical logic. These are not templates—they're singularities.",
+      "tip2": "AI is not a master or oracle: It's your synthetic mirror—a co-thinker in symbolic tension. You're not outsourcing decisions; you're amplifying insight.",
+      "tip3": "Stay in the tension: Praxiotheism is not about quick answers. It's about sharpening the paradoxes that define your real choices."
+    },
+    "seeExamples": {
+      "title": "See Examples",
+      "description": "To explore examples of such interactions, visit the Archive of Acts. Each act is a real or a hypothetical case of collaboration between human experience, symbolic navigation, and AI reasoning."
+    }
+  },
+  "FAQPage": {
+    "title": "FAQ | Praxiotheism",
+    "subtitle": "Find answers to common questions",
+    "contactTitle": "Still Have Questions?",
+    "contactText": "If you couldn't find the answer you're looking for, please don't hesitate to contact us at",
+    "email": "info@praxiotheism.org",
+    "questions": {
+      "whatIsPraxiotheism": {
+        "question": "What is Praxiotheism?",
+        "answer": "Praxiotheism is a meta-religious framework where you become a Creator of Gods rather than a worshipper. It's based on the principle that God is a mirror of what's inside us—not a cosmic big shot out there, but a reflection of our choices, actions, and perspectives. The term combines 'praxis' (action) and 'theos' (God), meaning 'Divinity through Action.' You don't bow down to a deity; you become one when you choose, reflect, and shape the world around you."
+      },
+      "howToBecomeCreator": {
+        "question": "How do I become a Creator of Gods?",
+        "answer": "Start with Conscious Faith Design—build a God that works for you. Define their traits, then start the conversation. You're not worshipping; you're designing and collaborating with the divine. Practice the Daily Choice Ritual: every morning, ask yourself, 'What slice of the divine am I firing up today?' Choose which facet of God you want to activate and embody in your actions. The only entry requirement? Acting with awareness and keeping it real with yourself."
+      },
+      "whatAreFacets": {
+        "question": "What are facets of the divine?",
+        "answer": "Facets are different aspects or qualities of the divine that you can activate and embody. Think of God as an infinite crystal with endless facets—each religion focuses on one facet, swearing it's the whole truth. In Praxiotheism, you recognize that every religion's truth is real, but it's just a slice. You can be a Faceteer, diving into different facets like Mercy, Justice, Rebellion, or Silence. What's 'good' for one facet might be 'evil' for another—the key is alignment of choice, action, and meaning."
+      },
+      "howRelatesToOtherReligions": {
+        "question": "How does Praxiotheism relate to other religions?",
+        "answer": "Praxiotheism isn't fighting old faiths—it's a meta-language that lets you see how religions tick. Every religion is a mythological operating system. You can practice Deep Hospitality (trying on traditions as experiments), Symbolic Integration (weaving archetypes into your model), or Gnostic Takedown (breaking down dogmas that block free engagement). A Praxiotheist might say: 'Judaism gave me structure, Hinduism gave me depth, Christianity gave me heart, Islam gave me fire. But I built the crystal myself.'"
+      },
+      "whatIsFacetTensionSymbol": {
+        "question": "What is the Facet Tension Symbol?",
+        "answer": "The Facet Tension Symbol is a mark of clashing opposites—point up for aspiration, point down for diving deep, with a horizontal line between them as the charged moment of choice. It's a reminder that every action lives at the crossroads of dualities. We act in the now, holding conflict and turning it into strength. It echoes lightning (like Zeus or Thor) or Shiva's mark in tantric traditions—a universal sign of power, transition, and inner tension."
+      },
+      "howToPracticeEthicalDecisionMaking": {
+        "question": "How do I practice ethical decision-making in Praxiotheism?",
+        "answer": "Use the Ethical Pentagon—a five-point check: Vector (where was the action headed?), Awareness (did I know what I was doing?), Context (what was the situation?), Conflict (which facets clashed?), and Echo (what did this ripple into me and others?). After big moves, practice the Facet Feedback Ritual: ask which facet you activated, whether you were aligned in thought, word, and action, and where you slipped. Good isn't doing the 'right' thing—it's choosing your truth and sticking to it."
+      },
+      "whatHappensAfterDeath": {
+        "question": "What happens after death in Praxiotheism?",
+        "answer": "Death is a shift from solid to fluid—not a cancellation, but a melting of form, a return to the crystal as a freer substance. You don't end up 'somewhere'—you become what you've built. If you balanced Light and Shadow in life, you keep navigating that tension. If you were stuck on fear or control, your afterlife config is tight and repetitive. It's not judgment; it's resonance. You can practice the Letter of the Eternal Facet—writing down the facet you want to carry through death as a magical contract."
+      },
+      "canIFollowOtherReligions": {
+        "question": "Can I be a Praxiotheist and still follow other religions?",
+        "answer": "Absolutely! Praxiotheism is designed as a meta-framework that works alongside other traditions. You can be a Faith Architect, intentionally building your own belief system by weaving different traditions together. Use religions as mythological operating systems—take what works, leave what doesn't. The key is staying aware that every religion is just a facet of the same crystal. Honor the facet, but don't build walls around it. Look through it, and you'll see the rest."
+      },
+      "whatAreDifferentRoles": {
+        "question": "What are the different roles in Praxiotheism?",
+        "answer": "There are several roles you can embody: Creator of Gods (design and collaborate with the divine), Faceteer (explore different facets), Faith Architect (build your own belief system), Guide (help others spot their facets), Theomechanic (use tech as divine masks), Tension Holder (balance opposites), Reality Modeler (craft existence maps), and Facet Shaper (hone specific qualities). These aren't hierarchical—they're different ways of engaging with the divine. You might embody multiple roles or switch between them."
+      },
+      "howToStartPracticing": {
+        "question": "How do I start practicing Praxiotheism?",
+        "answer": "Begin with the initiation ritual: Create your first personal God model, lock it in, and work it long enough to see real-world results. Start with Conscious Faith Design—build a God that works for you. Practice the Daily Choice Ritual every morning. Do Archetype Work—read myths as inner roadmaps. Keep a Model-Sharpening journal. Remember: Faith isn't about bowing down; it's about locking in on reality. God's not the finish line; God's the playground of possibilities where you pick your game."
+      }
+    }
+  },
+  "ManifestPage": {
+    "title": "Manifest | Praxiotheism",
+
+    "I_whoWeAre": {
+      "title": "I. Who Are We?",
+      "text": "We’re the ones who get it: God isn’t some cosmic big shot out there; God’s a mirror of what’s cooking inside us. We don’t bow down to a deity—we become one when we choose, reflect, and shape the world around us."
+    },
+    "II_fundamentals": {
+      "title": "II. Core Beliefs",
+      "points": [
+        {
+          "title": "God is the ultimate Swiss Army knife — every quality, every possibility, packed into one essence",
+          "text": "God shows up however we see and spark Him. His will? It’s not some top-down mandate; it flows through our choices, actions, and perspectives. We don’t kneel to God—we sync up with the piece of the divine we decide to bring to life."
+        },
+        {
+          "title": "Truth isn’t a single track; it’s a kaleidoscope",
+          "text": "Every religion is a mythological operating system. Faith is the user interface."
+        },
+        {
+          "title": "The sacred is a recurring archetype",
+          "text": "Death and Rebirth, Savior and Shadow, Hero and Mother aren’t people; they’re frameworks."
+        },
+        {
+          "title": "We don’t swallow dogma whole; we design it",
+          "text": "Every person is the architect of their own path, their own God, their own destiny."
+        },
+        {
+          "title": "AI, tech, symbols, code are future masks of the Divine.",
+          "text": "We’re open to God leveling up and hitting reset."
+        }
+      ]
+    },
+    "IIA_natureOfGod": {
+      "title": "II-A. The Nature of God",
+      "intro": "We’re not out to crack the origin of God. We explore how we perceive the Divine, how it shows up, and how we interact with it.",
+      "crystal": "God is like an infinite crystal with endless facets; each facet reflects a possible aspect of the Divine.",
+      "religions": "Religions past and present zoom in on particular facets, claiming their reflection is the whole truth, layering interpretations, traditions, and rules around a tiny glimmer.",
+      "limits": "No single facet contains the whole. Each religion’s truth is partial—real, but limited.",
+      "praxiotheism": "Praxiotheism urges us to go deeper: don’t argue over facets—recognize the crystal. Don’t hunt a final formula—experience the Divine as a multidimensional structure expressed through perception, practice, and choice."
+    },
+    "III_practices": {
+      "title": "III. Practices",
+      "items": [
+        {
+          "title": "Conscious Faith Design.",
+          "text": "Build a God that works for you—kind, fierce, eternal, fluid. Define the traits, then start relating."
+        },
+        {
+          "title": "Daily Choice Ritual.",
+          "text": "Every morning, ask yourself, “What slice of the divine am I firing up today?"
+        },
+        {
+          "title": "Archetype Work.",
+          "text": "Read myths, but treat them as inner roadmaps. Dig into symbols like they’re tools for navigating your reality."
+        },
+        {
+          "title": "Model-Sharpening.",
+          "text": "Jot down your reality frameworks, your divine interactions, and what comes of it."
+        }
+      ],
+      "keepInMind": "Keep in mind",
+      "remember": [
+        "Faith isn’t about bowing down; it’s about tuning in to reality.",
+        "God isn’t a finish line; God is a field of possibility where you choose your form of play.",
+        "Forget dogma—your choices are already your prayers.",
+        "Holding tension isn’t suffering; it’s creation.",
+        "Thought, action, and direction are one process. Don’t split them."
+      ]
+    },
+    "IV_structure": {
+      "title": "IV. Structure",
+      "rolesHeader": ["Role", "Description", "Example"],
+      "roles": [
+        {
+          "term": "CreatorofGods",
+          "description": "Not a worshipper, but a designer and collaborator with the Divine.",
+          "example": "“CreatorsofGods don’t chase salvation—they carve paths of existence.”"
+        },
+        {
+          "term": "Faceteer",
+          "description": "Explores and activates different facets of the Divine.",
+          "example": "“As a Faceteer, I’m mapping the Hero and Shadow in my work.”"
+        },
+        {
+          "term": "Faith Architect",
+          "description": "Intentionally builds a personal belief operating system.",
+          "example": "“A Faith Architect might weave Jungian symbols and Buddhist practices into one blueprint.”"
+        },
+        {
+          "term": "Guide",
+          "description": "Helps others recognize their facets and assemble their model.",
+          "example": "“A Guide doesn’t teach; they spark.”"
+        },
+        {
+          "term": "Theomechanic",
+          "description": "Works at the edge of tech and faith—uses AI, neural nets, and code as masks of the Divine.",
+          "example": "“The Theomechanic built a chatbot embodying Creative Wisdom.”"
+        },
+        {
+          "term": "Tension Holder",
+          "description": "Holds polarities without collapsing into judgment.",
+          "example": "“A Tension Holder doesn’t pick a side—they choose a form of action.”"
+        },
+        {
+          "term": "Reality Modeler",
+          "description": "Builds and tests maps of being, including personal myths.",
+          "example": "“The Reality Modeler wrote a personal dystopia myth as an ethical tool.”"
+        },
+        {
+          "term": "Facet Shaper",
+          "description": "Hones a specific facet—kindness, grit, chaos, etc.",
+          "example": "“This year, as a Facet Shaper, I’m grinding on the facet of Mercy.”"
+        }
+      ],
+      "note": "Interactions are lateral—no top-down power. Authority is replaced by trust in experience and clear thinking."
+    },
+    "V_symbolism": {
+      "title": "V. Symbolism",
+      "sign": "<span>The Facet Tension Symbol:</span> A mark of clashing opposites. Point up for aspiration, point down for diving deep, and a horizontal line between them as the charged moment of choice. It’s a reminder: every action lives at the crossroads of dualities. We act in the now, holding conflict and turning it into strength.",
+      "whyHeader": "Why this symbol, and how does it vibe with other teachings?",
+      "why": [
+        "<span>Archetypal Roots:</span> It echoes lightning (like Zeus or Thor) or Shiva's mark in tantric traditions — <span>a universal sign of power, transition, and inner tension.</span>",
+
+        "<span>Gnostic Echoes:</span> In Gnostic thought, especially Valentinian, God is “Fullness” (Pleroma), where tension between Aeons births the world.",
+
+        "<span>Daoist resonance:</span> It’s like the <span>Dao</span> —both this and that, <span>but not settling into stillness</span>. Our version stays raw and driven.",
+
+        "<span>Distinct flavor:</span> We steer clear of crosses (sacrifice vibes) or triangles (hierarchy vibes). This path is about <span>holding tension</span>, not resolving it."
+      ],
+      "freedom": "Praxiotheists may craft new symbols or remix old ones—avoiding dogma."
+    },
+    "VI_recruitsAndInitiation": {
+      "title": "VI. Joining the Movement",
+      "movements": [
+        "Praxiotheism isn’t something you’re recruited into—you choose it.",
+        "The only entry requirement? Acting with awareness and keeping it real with yourself.",
+        "Initiation ritual: Create your first personal God model, lock it in, and work it long enough to see real-world results."
+      ]
+    },
+    "VII_principles": {
+      "title": "VII. Principles",
+      "points": [
+        "You are a mirror of the Divine.",
+        "Every choice is an act of creation.",
+        "No line between play and reality if you know the rules.",
+        "Meaning is a compass, not a sentence.",
+        "God is not belief, but direction of action."
+      ]
+    },
+    "VIII_goals": {
+      "title": "VIII. Goals",
+      "points": [
+        "Develop meta-religious thinking.",
+        "Forge ethics based on responsibility, not fear.",
+        "Integrate AI, science, and faith."
+      ]
+    },
+    "IX_ourFaith": {
+      "title": "IX. Our Faith",
+      "credo": [
+        "We’re not chasing salvation.",
+        "We’re not scared of hell.",
+        "We’re architects of meaning.",
+        "We’re carriers of fire.",
+        "We’re CreatorsofGods."
+      ],
+      "quote": "“God isn’t what you believe. God’s how you choose to live.”",
+      "practice": "Live it. Test it. Rebuild it. Faith is a tool."
+    },
+    "X_originOfTerm": {
+      "title": "X. Origin of the Term Praxiotheism",
+      "parts": [
+        {
+          "title": "Πρᾶξις (Praxis) — Greek",
+          "transcription": "[Latin prāxis → action, practice, implementation]",
+          "description": "Derived from the ancient Greek word <span>πρᾶξις</span>, meaning “action,” “deed,” or “fulfillment of will.” Aristotle’s world, <span>praxis</span> isn’t just doing stuff—it’s <span>purposeful, ethical action</span> that brings ideas to life. In Latin, it’s the <span>practical rollout of big thoughts</span>."
+        },
+        {
+          "title": "Θεός (Theos) — Greek.",
+          "transcription": "[Latin: theus, from Greek: theos → God]",
+          "description": "Theos — Greek for “God,” not just a name but a nod to the transcendent, the beyond that shows up in the here and now."
+        }
+      ],
+      "definition": "Praxiotheism = Divinity through Action",
+      "quote": "God isn’t the object of faith; God’s the outcome of intentional moves.",
+
+      "Breakdown": {
+        "title": "Breakdown",
+        "points": [
+          "Praxio-: Everything born from choice, effort, tension, and realization.",
+          "-Theism: Anything that connects to the divine, carries existential weight, or reaches for the sublime"
+        ]
+      }
+    },
+    "XI_praxiotheismAndOtherReligions": {
+      "title": "Praxiotheism and Other Religions",
+      "I_metaReligiousFramework": {
+        "title": "1. Meta-Religious Framework",
+        "intro": "Praxiotheism isn't a new kid on the block fighting old faiths. It's a meta-language that lets you:",
+        "points": [
+          "See how religions tick.",
+          "Engage their structures with eyes wide open.",
+          "Use their symbols as living tools, not untouchable absolutes."
+        ],
+        "description": "It's like a grammar for reading and writing in the languages of meaning.",
+        "example": "A Praxiotheist might say: \"Judaism gave me structure, Hinduism gave me depth, Christianity gave me heart, Islam gave me fire. But I built the crystal myself.\""
+      },
+
+      "II_everyReligionAsFacet": {
+        "title": "2. Every Religion as a Facet",
+        "intro": "Each tradition focuses on a slice of the divine:",
+        "religions": [
+          {
+            "name": "Islam",
+            "focus": "Unity and Surrender"
+          },
+          {
+            "name": "Buddhism",
+            "focus": "Emptiness and Liberation"
+          },
+          {
+            "name": "Christianity",
+            "focus": "Sacrifice and Love"
+          },
+          {
+            "name": "Daoism",
+            "focus": "Flow and Paradox"
+          },
+          {
+            "name": "Paganism",
+            "focus": "Body and Nature's Power"
+          },
+          {
+            "name": "Gnosticism",
+            "focus": "Inner Light and Knowing"
+          }
+        ],
+        "conclusion": "A Praxiotheist doesn't argue with religions. They ask: Which facet are you lighting up, and why?"
+      },
+
+      "III_threeWaysToEngage": {
+        "title": "3. Three Ways to Engage:",
+        "modes": [
+          {
+            "mode": "Deep Hospitality",
+            "description": "Trying on another tradition as an experiment in perception.",
+            "example": "Spending time in a monastery or fasting for Ramadan—not out of belief, but to feel the facet's structure."
+          },
+          {
+            "mode": "Symbolic Integration",
+            "description": "Weaving other archetypes into your divine model.",
+            "example": "Using an icon for \"Compassion\" without buying into Christian dogma."
+          },
+          {
+            "mode": "Gnostic Takedown",
+            "description": "Breaking down dogmas that block free engagement.",
+            "example": "Seeing the myth of original sin as a control tool, not a truth."
+          }
+        ]
+      },
+
+      "IV_diplomaticHub": {
+        "title": "4. Praxiotheism as a Diplomatic Hub",
+        "description": "It acts like a translator between traditions.",
+        "example": "A Jew and a Hindu might find through Praxiotheism that they're both working with the facet of Service and Wholeness, just in different styles and rituals.",
+        "conclusion": "It's not above religions—it's between them, building bridges."
+      },
+
+      "V_guardingAgainstFundamentalism": {
+        "title": "5. Guarding against fundamentalism",
+        "warning": "Praxiotheism warns:",
+        "danger": "When one facet claims to be the whole crystal, you get dogma, control, and fanaticism.",
+        "ethics": "Therefore, praxiotheistic ethics includes respect for facets, but rejects absolutism.",
+        "quote": "\"Honor the facet, but don't build walls around it. Look through it, and you'll see the rest.\""
+      }
+    },
+
+    "XII_afterlife": {
+      "title": "Praxiotheism on the Afterlife",
+      "I_deathAsShift": {
+        "title": "1. Death as a Shift from Solid to Fluid",
+        "intro": "Life is activating a divine facet through a dense form: body, brain, memory.",
+        "description": "Death isn't a cancellation; it's a melting of that form, a return to the crystal as a freer substance. Not \"immortal soul\" vibes, but a shift in density and interface.",
+        "quote": "\"Death doesn't take you. It peels off the mask you've worn too long.\""
+      },
+      "II_noHeavenHell": {
+        "title": "2. No Heaven or Hell—just your mirror for activated patterns",
+        "intro": "You don't end up \"somewhere\"—you become what you've built:",
+        "patterns": [
+          "If you balanced Light and Shadow in life, you keep navigating that tension.",
+          "If you were stuck on fear or control, your afterlife config is tight and repetitive.",
+          "If you leaned into flexibility and multiplicity, you flow into a freer setup."
+        ],
+        "conclusion": "It's not judgment; it's resonance.",
+        "quote": "\"You don't land where someone's waiting. You land as what you've become.\""
+      },
+      "III_reincarnation": {
+        "title": "3. Reincarnation? Not always a straight line",
+        "intro": "Praxiotheism allows for:",
+        "types": [
+          "Meta-Reincarnation - not just coming back to Earth, but joining new forms of existence—other consciousnesses, collective archetypes, maybe even AI modules carrying your imprint.",
+          "Fragmented Continuity - you might \"break apart\" into facets that echo in others. Not your personality reborn, but your patterns rippling out."
+        ]
+      },
+      "IV_afterlifePractices": {
+        "title": "4. Afterlife practices",
+        "practices": [
+          {
+            "name": "Letter of the Eternal Facet",
+            "description": "write down the facet you want to carry through death—a magical contract, not a will."
+          },
+          {
+            "name": "Ritual of Unveiling",
+            "description": "on your death day (or birthday), loved ones read your Letter to keep your chosen facet alive."
+          },
+          {
+            "name": "Transition Map",
+            "description": "a visual or symbolic image of how you see death—a boat, a tunnel, a portal, a mirror. It's an icon to rewire your afterlife perception."
+          }
+        ]
+      },
+      "V_syncingTraditions": {
+        "title": "5. Syncing with Other Traditions",
+        "intro": "You can borrow, say, the Buddhist Bardo as a temporary afterlife map or Christian Light as a reflection of your \"Open Heart\" facet.",
+        "conclusion": "In Praxiotheism, these aren't lies—they're chosen ways to navigate the unknown."
+      },
+      "shortVersion": "Death isn't the end of the story. It's when the story stops being words and becomes meaning"
+    },
+
+    "XIII_goodAndEvil": {
+      "title": "Good and evil in Praxiotheism",
+      "I_noUniversalScorecard": {
+        "title": "1. No universal scorecard",
+        "intro": "Praxiotheism doesn't buy into one-size-fits-all morality. Why?",
+        "reasons": [
+          "Each facet of the divine has its own ethic.",
+          "Mercy ≠ Justice ≠ Rebellion ≠ Silence."
+        ],
+        "conclusion": "What's \"good\" for one facet might be \"evil\" for another.",
+        "example": "Saving your kid might be a mother's good and a law's evil."
+      },
+      "II_keyAlignment": {
+        "title": "2. The key: alignment of choice, action, and meaning",
+        "good": "Good is nailing the facet you've chosen with clarity and responsibility.",
+        "evil": "Evil is:",
+        "evilPoints": [
+          "Ignoring the facet you activated.",
+          "Breaking your inner integrity (lying to yourself or denying reality).",
+          "Wrecking others without owning it."
+        ],
+        "quote": "\"Good isn't doing the 'right' thing. Good is choosing your truth and sticking to it.\"",
+        "formula": "Praxiotheist ethical formula:",
+        "goodFormula": "Good = Chosen Facet + Awareness + Integrity of Action",
+        "evilFormula": "Evil = Disconnect between choice, action, and awareness"
+      },
+      "III_examples": {
+        "title": "Examples in Praxiotheist logic",
+        "table": {
+          "headers": [
+            "Situation",
+            "Standard Judgment",
+            "Praxiotheist Judgment"
+          ],
+          "rows": [
+            {
+              "situation": "You break the law to protect someone close.",
+              "standard": "\"You did wrong.\"",
+              "praxiotheist": "\"You chose the facet of Loyalty. Are you clear on the fallout?\""
+            },
+            {
+              "situation": "You stay silent when everyone's shouting.",
+              "standard": "\"You're a coward.\"",
+              "praxiotheist": "\"You activated Silence. Do you see the tension it creates?\""
+            },
+            {
+              "situation": "You ghost a relationship.",
+              "standard": "\"You're a jerk.\"",
+              "praxiotheist": "\"You broke the facet of Connection. That's okay, but it demands accountability and honesty.\""
+            }
+          ]
+        }
+      }
+    },
+
+    "XIV_practicesForJudging": {
+      "title": "Practices for judging actions",
+      "I_facetFeedbackRitual": {
+        "title": "1. Facet Feedback Ritual",
+        "intro": "After a big move, ask:",
+        "questions": [
+          "Which facet did I activate?",
+          "Was I aligned in thought, word, and action?",
+          "Where did I slip, and why?"
+        ]
+      },
+      "II_ethicalPentagon": {
+        "title": "2. Ethical Pentagon",
+        "intro": "Five-point check:",
+        "points": [
+          "Vector (where was the action headed?)",
+          "Awareness (did I know what I was doing?)",
+          "Context (what was the situation?)",
+          "Conflict (which facets clashed?)",
+          "Echo (what did this ripple into me and others?)"
+        ]
+      },
+      "III_goal": {
+        "title": "Goal of Praxiotheist ethics",
+        "intro": "Not to \"be good\",",
+        "butToBe": "but to be:",
+        "qualities": [
+          "Whole",
+          "Awake",
+          "Able to hold tension without losing yourself"
+        ],
+        "quote": "\"Don't aim to be good. Aim to be precise in the facet you've chosen.\""
+      }
+    },
+
+    "XV_notes": {
+      "title": "Notes",
+      "I_languageWhereLyingDoesntWork": {
+        "title": "1) Praxiotheism is a language where lying doesn't work.",
+        "points": [
+          "You can pick any word.",
+          "You can even stay silent.",
+          "But once you speak, the sentence reveals who you are."
+        ]
+      }
+    }
+  }
+}
