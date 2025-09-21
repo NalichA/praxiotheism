@@ -18,8 +18,10 @@ export default function Archive() {
   const t = useTranslations('ArchivePage');
 
   return (
-    <div>
-      <h1>{t('title')}</h1>
+    <div className="container mx-auto px-4 py-8">
+      <div className="text-center py-12">
+        <p className="text-lg text-muted-foreground">{t('comingSoon')}</p>
+      </div>
     </div>
   );
 }
