@@ -79,7 +79,7 @@ export default function Manifest() {
                 .raw('III_practices.items')
                 .map((item: { title: string; text: string }, index: number) => (
                   <li key={index} className='leading-relaxed font-bold'>
-                    {item.text}&nbsp;
+                    {item.title}&nbsp;
                     <span className='font-normal'>{item.text}</span>
                   </li>
                 ))}
