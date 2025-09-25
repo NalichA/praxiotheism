@@ -36,7 +36,7 @@ export default function FAQ() {
             <p className='text-muted-foreground mb-6'>
               {t('contactText')}{' '}
               <a
-                href='mailto:info@praxiotheism.org'
+                href='mailto:praxiotheism.com@gmail.com'
                 className='text-foreground font-medium hover:underline'
               >
                 {t('email')}
