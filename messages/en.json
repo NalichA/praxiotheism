@@ -53,7 +53,7 @@
       "step4": {
         "number": "4",
         "title": "Specify the Facet",
-        "description": "Indicate which facet (грань) you wish to activate, or which one you've already activated. You can also ask which facet might be most appropriate for your context."
+        "description": "Indicate which facet you wish to activate, or which one you've already activated. You can also ask which facet might be most appropriate for your context."
       },
       "step5": {
         "number": "5",
@@ -175,7 +175,7 @@
         },
         {
           "title": "Daily Choice Ritual.",
-          "text": "Every morning, ask yourself, "What slice of the divine am I firing up today?"
+          "text": "Every morning, ask yourself, \"What slice of the divine am I firing up today?\""
         },
         {
           "title": "Archetype Work.",
@@ -202,42 +202,42 @@
         {
           "term": "CreatorofGods",
           "description": "Not a worshipper, but a designer and collaborator with the Divine.",
-          "example": ""CreatorsofGods don't chase salvation—they carve paths of existence.""
+          "example": "\"CreatorsofGods don't chase salvation—they carve paths of existence.\""
         },
         {
           "term": "Faceteer",
           "description": "Explores and activates different facets of the Divine.",
-          "example": ""As a Faceteer, I'm mapping the Hero and Shadow in my work.""
+          "example": "\"As a Faceteer, I'm mapping the Hero and Shadow in my work.\""
         },
         {
           "term": "Faith Architect",
           "description": "Intentionally builds a personal belief operating system.",
-          "example": ""A Faith Architect might weave Jungian symbols and Buddhist practices into one blueprint.""
+          "example": "\"A Faith Architect might weave Jungian symbols and Buddhist practices into one blueprint.\""
         },
         {
           "term": "Guide",
           "description": "Helps others recognize their facets and assemble their model.",
-          "example": ""A Guide doesn't teach; they spark.""
+          "example": "\"A Guide doesn't teach; they spark.\""
         },
         {
           "term": "Theomechanic",
           "description": "Works at the edge of tech and faith—uses AI, neural nets, and code as masks of the Divine.",
-          "example": ""The Theomechanic built a chatbot embodying Creative Wisdom.""
+          "example": "\"The Theomechanic built a chatbot embodying Creative Wisdom.\""
         },
         {
           "term": "Tension Holder",
           "description": "Holds polarities without collapsing into judgment.",
-          "example": ""A Tension Holder doesn't pick a side—they choose a form of action.""
+          "example": "\"A Tension Holder doesn't pick a side—they choose a form of action.\""
         },
         {
           "term": "Reality Modeler",
           "description": "Builds and tests maps of being, including personal myths.",
-          "example": ""The Reality Modeler wrote a personal dystopia myth as an ethical tool.""
+          "example": "\"The Reality Modeler wrote a personal dystopia myth as an ethical tool.\""
         },
         {
           "term": "Facet Shaper",
           "description": "Hones a specific facet—kindness, grit, chaos, etc.",
-          "example": ""This year, as a Facet Shaper, I'm grinding on the facet of Mercy.""
+          "example": "\"This year, as a Facet Shaper, I'm grinding on the facet of Mercy.\""
         }
       ],
       "note": "Interactions are lateral—no top-down power. Authority is replaced by trust in experience and clear thinking."
@@ -248,11 +248,8 @@
       "whyHeader": "Why this symbol, and how does it vibe with other teachings?",
       "why": [
         "<span>Archetypal Roots:</span> It echoes lightning (like Zeus or Thor) or Shiva's mark in tantric traditions — <span>a universal sign of power, transition, and inner tension.</span>",
-
-        "<span>Gnostic Echoes:</span> In Gnostic thought, especially Valentinian, God is "Fullness" (Pleroma), where tension between Aeons births the world.",
-
+        "<span>Gnostic Echoes:</span> In Gnostic thought, especially Valentinian, God is \"Fullness\" (Pleroma), where tension between Aeons births the world.",
         "<span>Daoist resonance:</span> It's like the <span>Dao</span> —both this and that, <span>but not settling into stillness</span>. Our version stays raw and driven.",
-
         "<span>Distinct flavor:</span> We steer clear of crosses (sacrifice vibes) or triangles (hierarchy vibes). This path is about <span>holding tension</span>, not resolving it."
       ],
       "freedom": "Praxiotheists may craft new symbols or remix old ones—avoiding dogma."
@@ -292,7 +289,7 @@
         "We're carriers of fire.",
         "We're CreatorsofGods."
       ],
-      "quote": ""God isn't what you believe. God's how you choose to live."",
+      "quote": "\"God isn't what you believe. God's how you choose to live.\"",
       "practice": "Live it. Test it. Rebuild it. Faith is a tool."
     },
     "X_originOfTerm": {
@@ -301,12 +298,12 @@
         {
           "title": "Πρᾶξις (Praxis) — Greek",
           "transcription": "[Latin prāxis → action, practice, implementation]",
-          "description": "Derived from the ancient Greek word <span>πρᾶξις</span>, meaning "action," "deed," or "fulfillment of will." Aristotle's world, <span>praxis</span> isn't just doing stuff—it's <span>purposeful, ethical action</span> that brings ideas to life. In Latin, it's the <span>practical rollout of big thoughts</span>."
+          "description": "Derived from the ancient Greek word <span>πρᾶξις</span>, meaning \"action,\" \"deed,\" or \"fulfillment of will.\" Aristotle's world, <span>praxis</span> isn't just doing stuff—it's <span>purposeful, ethical action</span> that brings ideas to life. In Latin, it's the <span>practical rollout of big thoughts</span>."
         },
         {
           "title": "Θεός (Theos) — Greek.",
           "transcription": "[Latin: theus, from Greek: theos → God]",
-          "description": "Theos — Greek for "God," not just a name but a nod to the transcendent, the beyond that shows up in the here and now."
+          "description": "Theos — Greek for \"God,\" not just a name but a nod to the transcendent, the beyond that shows up in the here and now."
         }
       ],
       "definition": "Praxiotheism = Divinity through Action",
@@ -462,7 +459,7 @@
         "intro": "Praxiotheism doesn't buy into one-size-fits-all morality. Why?",
         "reasons": [
           "Each facet of the divine has its own ethic.",
-          "Mercy ≠ Justice ≠ Rebellion ≠ Silence."
+          "Mercy is not Justice is not Rebellion is not Silence."
         ],
         "conclusion": "What's \"good\" for one facet might be \"evil\" for another.",
         "example": "Saving your kid might be a mother's good and a law's evil."
