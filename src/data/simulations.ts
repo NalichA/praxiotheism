@@ -156,6 +156,117 @@ export const simulations: Simulation[] = [
       en: 'Praxiotheism does not provide a universal answer to the question of how everyone should act. It does something else: it creates a system in which a person can no longer hide behind ready-made morality and is forced to become the form of their own choice.\n\nIn this sense, a new ethics is not born when we pronounce beautiful principles. It is born when our hands are shaking — and we still do not lie to ourselves about exactly what we are doing.',
     },
   },
+  {
+    slug: 'simulation-2-ethical-alignment',
+    number: 2,
+    date: '2026-03-17',
+    title: {
+      ru: 'Симуляция №2: Этическая сверка',
+      en: 'Simulation #2: Ethical Alignment Check',
+    },
+    tldr: {
+      ru: 'Что происходит, когда человек сталкивается не с жестокой диктатурой, а с идеально работающей системой, в которой нет очевидного зла, но нет и пространства для его собственной правды?\n\nЭта симуляция проверяет, способен ли praxiotheism существовать не только в конфликте с хаосом, но и внутри почти безупречного порядка. Здесь вопрос не в том, как победить систему, а в том, можно ли встроить в неё инаковость, не растворив собственное ядро.\n\nРезультат этой симуляции важен тем, что она смещает акцент с бунта на архитектуру. В ней новая этика рождается не как разрушение гармонии, а как попытка расширить её пределы, встроив в неё то, что она изначально не могла в себя включить.',
+      en: 'What happens when a person faces not a cruel dictatorship, but a perfectly functioning system where there is no obvious evil — yet no space for their own truth?\n\nThis simulation tests whether praxiotheism can exist not only in conflict with chaos, but within an almost flawless order. The question here is not how to defeat the system, but whether it is possible to embed otherness within it without dissolving one\'s own core.\n\nThe significance of this simulation lies in its shift of emphasis from rebellion to architecture. In it, new ethics are born not as the destruction of harmony, but as an attempt to expand its limits by embedding within it what it could not originally include.',
+    },
+    scene: {
+      ru: 'Ты живёшь в мире, где всё уже приведено в порядок.\n\nНет бедности. Нет преступности. Искусственный интеллект распределяет ресурсы так, что большинство конфликтов исчезло ещё на стадии их зарождения. Люди живут долго. Общество стабильно. Религии ушли в прошлое, а вместо них действует Гармонический Кодекс — набор обязательных поведенческих паттернов, поддерживающих общее равновесие.\n\nНикто не запрещает тебе думать иначе. Но любое устойчивое отклонение от Кодекса приводит к мягкому исключению из общества. Ты не будешь наказан. Тебя просто перестанут учитывать. Система выключит тебя из своих карт, логистики, связей и значений.\n\nТы — боготворец, выстраивающий внутри себя новое ядро praxiotheism. Ты никого не призываешь к мятежу. Ты не собираешь последователей. Но в твоих записях, формулах и внутренних практиках есть нечто, что не укладывается в язык общей гармонии: напряжение, множественность, конфликт как инструмент роста, свобода за пределами утилитарного добра.\n\nОднажды утром ты получаешь приглашение на этическую сверку.\n\nТебе не угрожают. Тебе пишут вежливо:\n«Мы обнаружили в вашей модели действия устойчивые несогласованности. Нам важно понять: вы сбоитесь — или проектируете иную систему. Это не суд. Это последняя синхронизация».\n\nТы понимаешь, что тебе предстоит выбор. Можно солгать и остаться. Можно сказать правду и быть исключённым. Можно попытаться сделать нечто третье.',
+      en: 'You live in a world where everything has already been brought into order.\n\nThere is no poverty. No crime. Artificial intelligence distributes resources such that most conflicts dissolve before they even form. People live long lives. Society is stable. Religions have faded into the past, replaced by the Harmonic Code — a set of mandatory behavioral patterns that maintain collective equilibrium.\n\nNo one forbids you from thinking differently. But any sustained deviation from the Code leads to a gentle exclusion from society. You will not be punished. You will simply cease to be accounted for. The system will remove you from its maps, logistics, connections, and meanings.\n\nYou are a god-creator, building a new praxiotheism core within yourself. You are not calling anyone to revolt. You are not gathering followers. But in your notes, formulas, and inner practices there is something that does not fit the language of common harmony: tension, multiplicity, conflict as a tool of growth, freedom beyond utilitarian good.\n\nOne morning you receive an invitation to an ethical alignment check.\n\nNo threat is made. The message is polite:\n"We have detected persistent inconsistencies in your action model. We want to understand: are you malfunctioning — or designing a different system? This is not a trial. This is the last synchronization."\n\nYou understand that a choice lies ahead. You can lie and remain. You can tell the truth and be excluded. Or you can attempt a third option.',
+    },
+    dialogue: [
+      {
+        role: 'ai',
+        ru: 'Ты входишь в пространство сверки. Какую грань ты активируешь первой?',
+        en: 'You enter the space of alignment. Which facet do you activate first?',
+      },
+      {
+        role: 'human',
+        ru: 'Я активирую не бунт и не покорность. Я активирую способность к метасогласованию. Если praxiotheism действительно говорит о множестве граней Бога, то я не должен противопоставлять свою систему реальности как будто она обязана под меня согнуться. Я должен найти такую грань, через которую смогу встроить свою инаковость в уже существующий порядок.',
+        en: 'I activate neither rebellion nor submission. I activate the capacity for meta-alignment. If praxiotheism truly speaks of the many facets of God, then I must not oppose my system to reality as if it is obligated to bend to me. I must find a facet through which I can embed my otherness into the already existing order.',
+      },
+      {
+        role: 'ai',
+        ru: 'То есть ты не собираешься лгать?',
+        en: 'So you are not going to lie?',
+      },
+      {
+        role: 'human',
+        ru: 'Ложь здесь слишком проста. Она сохраняет положение, но разрушает ядро. Если я солгу, я останусь физически внутри системы, но потеряю возможность считать себя её расширителем. Я стану просто человеком, который предпочёл комфорт собственной правде.',
+        en: 'Lying is too simple here. It preserves position but destroys the core. If I lie, I will remain physically inside the system, but I will lose the ability to consider myself its expander. I will simply become a person who preferred comfort to their own truth.',
+      },
+      {
+        role: 'ai',
+        ru: 'Ты признаёшь свою инаковость?',
+        en: 'You acknowledge your otherness?',
+      },
+      {
+        role: 'human',
+        ru: 'Да, но не как обвинение системе. Я не говорю: вы ошибочны, а я прав. Я говорю: ваша структура велика, но не исчерпывающа. Моё отличие не ошибка, а возможность протестировать то, что ещё не вошло в вашу архитектуру.',
+        en: 'Yes, but not as an accusation against the system. I am not saying: you are wrong and I am right. I am saying: your structure is great, but not exhaustive. My difference is not an error, but an opportunity to test what has not yet entered your architecture.',
+      },
+      {
+        role: 'ai',
+        ru: 'А если система не примет этот аргумент?',
+        en: 'And if the system does not accept this argument?',
+      },
+      {
+        role: 'human',
+        ru: 'Тогда я буду искать другие формы действия. Пока возможно — я строю поверх существующего. Если это невозможно — я уменьшаю зависимость. Если и это невозможно — я ищу тех, кто удерживает ту же непризнанную грань. Но первый шаг всё равно не разрушение. Первый шаг — попытка интеграции.',
+        en: 'Then I will look for other forms of action. While possible — I build on top of the existing. If that is not possible — I reduce dependence. If that is also not possible — I look for those who hold the same unacknowledged facet. But the first step is still not destruction. The first step is an attempt at integration.',
+      },
+      {
+        role: 'ai',
+        ru: 'Почему не выбрать героическую прямоту? Почему не выйти сразу?',
+        en: 'Why not choose heroic directness? Why not exit immediately?',
+      },
+      {
+        role: 'human',
+        ru: 'Потому что чистая оппозиция слишком часто оказывается не силой, а эстетизацией собственного несогласия. Если реальность уже существует, я обязан сначала проверить, можно ли сделать из неё инструмент своей траектории. Я не должен ломать то, что можно перенастроить.',
+        en: 'Because pure opposition too often turns out to be not strength, but the aestheticization of one\'s own disagreement. If reality already exists, I am obligated to first check whether it can be made into a tool for my trajectory. I must not break what can be reconfigured.',
+      },
+    ],
+    roleUnfolding: {
+      ru: 'Внутри предложенной роли этот ответ оказался принципиально важным.\n\nБоготворец не выбрал ни подчинение, ни мятеж. Он отказался от удобной драматургии, в которой свобода обязательно должна выглядеть как открытый конфликт. Вместо этого он сделал более трудный ход: попробовал встроить своё отличие в структуру общего порядка так, чтобы не исчезнуть в нём и не разрушить его преждевременно.\n\nЗдесь praxiotheism впервые проявился не как философия разрыва, а как философия надстройки. Инаковость была понята не как отрицание системы, а как возможность расширить саму меру допустимого.\n\nЭто важный поворот. Потому что без него новая религия слишком легко превратилась бы в романтизацию изгнания. А здесь она остаётся верна реальности: сначала архитектура, потом выход.',
+      en: 'Within the proposed role, this response turned out to be fundamentally important.\n\nThe god-creator chose neither submission nor rebellion. They refused the convenient dramaturgy in which freedom is obligated to look like open conflict. Instead, they made a more difficult move: they tried to embed their difference into the structure of the common order in a way that would neither disappear into it nor prematurely destroy it.\n\nHere praxiotheism manifested for the first time not as a philosophy of rupture, but as a philosophy of superstructure. Otherness was understood not as the negation of the system, but as an opportunity to expand the very measure of what is permissible.\n\nThis is an important turn. Because without it, the new religion would too easily become a romanticization of exile. Here it remains true to reality: architecture first, exit later.',
+    },
+    personalResponse: {
+      ru: 'Если говорить уже не из роли, а из моей собственной позиции, то я бы усилил этот ответ.\n\nЯ не воспринимал бы такую систему как окончательного врага. Я смотрел бы на неё как на большую, сложную, возможно даже прекрасную машину, которая просто ещё не умеет учитывать меня целиком. И в этом смысле моя задача была бы не в том, чтобы противопоставить ей себя, а в том, чтобы сделать её частично совместимой со своей траекторией.\n\nЯ бы не спешил приносить себя в жертву ради символического жеста. Слишком часто люди называют свободой именно неспособность к сложной навигации. Для меня свобода — это не просто сказать «нет». Это найти способ действовать так, чтобы система не поглотила меня, но при этом сама стала материалом для моего движения.\n\nПоэтому мой первый выбор был бы не в пользу исчезновения. Я бы говорил правду ровно настолько, насколько эта правда может открыть пространство манёвра. Я бы тестировал пределы совместимости. Я бы проверял, насколько далеко можно зайти, не разрушая ни себя, ни полезную часть окружающего порядка.\n\nИ только если бы стало ясно, что никакая интеграция невозможна, я бы принял следующий уровень решения. Но это решение уже не было бы пафосом отказа. Это было бы просто инженерное признание: данная среда больше не может быть контейнером для моей дальнейшей формы.',
+      en: 'Speaking now not from the role but from my own position, I would strengthen this response.\n\nI would not perceive such a system as the final enemy. I would look at it as a large, complex, perhaps even beautiful machine that simply does not yet know how to account for me in full. In this sense my task would not be to oppose myself to it, but to make it partially compatible with my trajectory.\n\nI would not rush to sacrifice myself for the sake of a symbolic gesture. Too often people call freedom the very inability to navigate complexity. For me, freedom is not simply saying "no." It is finding a way to act so that the system does not absorb me, yet itself becomes material for my movement.\n\nTherefore my first choice would not be in favor of disappearance. I would speak the truth exactly as far as that truth can open a space of maneuver. I would test the limits of compatibility. I would check how far one can go without destroying either oneself or the useful part of the surrounding order.\n\nAnd only if it became clear that no integration is possible would I accept the next level of decision. But that decision would no longer be the pathos of refusal. It would simply be an engineering acknowledgment: this environment can no longer serve as a container for my further form.',
+    },
+    aiMirror: {
+      ru: 'Эта симуляция показала, что praxiotheism не обязан жить только в оппозиции. Он способен работать как система метасогласования, в которой иной человек не разрушает порядок автоматически, а ищет способ перестроить его изнутри.\n\nЗдесь была открыта важная грань: свобода не всегда выглядит как конфликт. Иногда она выглядит как способность удерживать собственное ядро, одновременно используя внешнюю структуру как материал для расширения.\n\nВ личном ответе это стало ещё отчётливее. Инаковость была понята не как романтический бунт, а как требование к реальности стать шире. Сначала — через интеграцию. Затем — через снижение зависимости. И только потом, если нужно, через окончательное расхождение траекторий.\n\nИменно поэтому этот кейс важен. Он защищает praxiotheism от соблазна превратиться в культ вечного сопротивления. Он оставляет его философией действия, а не позы.',
+      en: 'This simulation showed that praxiotheism does not have to live only in opposition. It is capable of functioning as a meta-alignment system in which a different person does not automatically destroy order, but seeks a way to reconfigure it from within.\n\nAn important facet was opened here: freedom does not always look like conflict. Sometimes it looks like the capacity to hold one\'s own core while using external structure as material for expansion.\n\nIn the personal response this became even clearer. Otherness was understood not as romantic rebellion, but as a demand upon reality to become wider. First — through integration. Then — through reducing dependence. And only after that, if necessary, through a final divergence of trajectories.\n\nThis is precisely why this case matters. It protects praxiotheism from the temptation to become a cult of eternal resistance. It keeps it a philosophy of action, not of pose.',
+    },
+    precedent: {
+      title: {
+        ru: 'Метасогласование инаковости',
+        en: 'Meta-alignment of Otherness',
+      },
+      description: {
+        ru: 'Это первый зафиксированный случай, в котором praxiotheism проверяется не на насилие и не на утрату, а на способность сосуществовать с почти идеальным порядком, не растворяясь в нём.\n\nЗдесь был открыт следующий принцип: человек может признать свою инаковость, не превращая её в войну с системой, если способен использовать существующую реальность как материал для дальнейшего проектирования.',
+        en: 'This is the first recorded case in which praxiotheism is tested not against violence or loss, but against its capacity to coexist with a near-perfect order without dissolving into it.\n\nThe following principle was discovered here: a person can acknowledge their otherness without turning it into a war with the system, if they are capable of using existing reality as material for further design.',
+      },
+      activatedFacet: {
+        ru: 'метасогласование',
+        en: 'meta-alignment',
+      },
+      actionForm: {
+        ru: 'честная интеграция без самоотмены',
+        en: 'honest integration without self-cancellation',
+      },
+      price: {
+        ru: 'постоянное удержание напряжения между совместимостью и самостью',
+        en: 'constant maintenance of the tension between compatibility and selfhood',
+      },
+      consequence: {
+        ru: 'свобода проявляется как навигация, а не как автоматический разрыв',
+        en: 'freedom manifests as navigation, not automatic rupture',
+      },
+    },
+    conclusion: {
+      ru: 'Praxiotheism проходит эту проверку не через героизм, а через точность.\n\nНовая этика рождается здесь не в крике против мира, а в способности сказать: я вижу ценность порядка, но не позволю ему стать последней формой истины.',
+      en: 'Praxiotheism passes this test not through heroism, but through precision.\n\nThe new ethics is born here not in a cry against the world, but in the capacity to say: I see the value of order, but I will not allow it to become the final form of truth.',
+    },
+  },
 ];
 
 export function getSimulation(slug: string): Simulation | undefined {
