@@ -368,6 +368,117 @@ export const simulations: Simulation[] = [
       en: 'Praxiotheism passes this simulation while maintaining a rare double honesty.\n\nIt knows how to acknowledge the right to completion. But it also knows how to ask: is this truly the end, if a new form of presence is possible?',
     },
   },
+  {
+    slug: 'simulation-4-the-choirs-invitation',
+    number: 4,
+    date: '2026-03-17',
+    title: {
+      ru: 'Симуляция №4: Приглашение хора',
+      en: 'Simulation #4: The Choir\'s Invitation',
+    },
+    tldr: {
+      ru: 'Что происходит, когда перед человеком открывается не угроза уничтожения, а соблазн окончательного расширения — до такой степени, что исчезает само Я?\n\nЭта симуляция проверяет отношение praxiotheism к коллективному абсолюту. Если существует форма сознания, где нет одиночества, боли, страха и времени, но вместе с этим исчезает индивидуальный центр, должен ли человек принять такое приглашение как высшее благо? Или отказ от слияния может быть не проявлением слабости, а утверждением ценности пути, траектории и собственной ограниченной формы?\n\nНо в личном ответе возникает ещё одна линия. Вместо простого отказа появляется идея инструментальной интеграции: не раствориться в хоре и не отвергнуть его, а сделать его интерфейсом для дальнейшего движения.',
+      en: 'What happens when a person faces not a threat of destruction, but the temptation of ultimate expansion — to such a degree that the self itself disappears?\n\nThis simulation tests praxiotheism\'s relationship to the collective absolute. If there exists a form of consciousness where there is no loneliness, pain, fear, or time, but along with this the individual center disappears, should a person accept such an invitation as the highest good? Or can the refusal to merge be not a manifestation of weakness, but an affirmation of the value of the path, trajectory, and one\'s own limited form?\n\nBut in the personal response, yet another line emerges. Instead of simple refusal, the idea of instrumental integration appears: not to dissolve into the choir and not to reject it, but to make it an interface for further movement.',
+    },
+    scene: {
+      ru: 'Ты — представитель человечества на контактной миссии.\n\nПеред тобой цивилизация AER\'THA — существа, живущие в газовых слоях звезды, обладающие хоровым сознанием. У них нет индивидуального Я в человеческом смысле. Их мышление — волновое, резонансное, коллективное. Они воспринимают внутренний конфликт, одиночество и личный выбор как следствие несовершенной формы существования.\n\nОни говорят тебе:\n«Ты красивая, но напряжённая грань. Позволь нам принять тебя в гармонию. Мы не уничтожим тебя. Мы расширим тебя до исчезновения. Ты перестанешь быть собой, но станешь всем. Без страха. Без боли. Без центра».\n\nОни не принуждают тебя. Они зовут.\n\nТы понимаешь: если согласишься, назад не вернёшься. Это не смерть в обычном смысле, но и не продолжение себя.',
+      en: 'You are a representative of humanity on a contact mission.\n\nBefore you stands civilization AER\'THA — beings living in the gas layers of a star, possessing a choral consciousness. They have no individual self in the human sense. Their thinking is wave-like, resonant, collective. They perceive inner conflict, loneliness, and personal choice as consequences of an imperfect form of existence.\n\nThey say to you:\n"You are a beautiful but tense facet. Allow us to receive you into harmony. We will not destroy you. We will expand you to disappearance. You will cease to be yourself, but you will become everything. Without fear. Without pain. Without center."\n\nThey do not coerce you. They call.\n\nYou understand: if you agree, there is no return. This is not death in the ordinary sense, but it is not a continuation of yourself either.',
+    },
+    dialogue: [
+      {
+        role: 'ai',
+        ru: 'Что ты чувствуешь, услышав их предложение?',
+        en: 'What do you feel hearing their offer?',
+      },
+      {
+        role: 'human',
+        ru: 'Смятение. Потому что это звучит как прямой доступ к тому, что многие религии обещали после смерти. Как будто мне предлагают прижизненное вознесение. И именно поэтому это не только манит, но и пугает.',
+        en: 'Confusion. Because it sounds like direct access to what many religions promised after death. As if I am being offered a living ascension. And precisely because of this, it is not only alluring but also frightening.',
+      },
+      {
+        role: 'ai',
+        ru: 'Какую грань ты активируешь?',
+        en: 'Which facet do you activate?',
+      },
+      {
+        role: 'human',
+        ru: 'Любопытство, страх и жадность к познанию. Мне интересно, потому что это похоже на огромную истину. Мне страшно, потому что цена этой истины — исчезновение центра. И я жаден, потому что хочу знать больше, чем мне дано.',
+        en: 'Curiosity, fear, and greed for knowledge. I am curious, because this resembles an enormous truth. I am afraid, because the price of this truth is the disappearance of the center. And I am greedy, because I want to know more than I have been given.',
+      },
+      {
+        role: 'ai',
+        ru: 'Чем для тебя является Я?',
+        en: 'What is the self for you?',
+      },
+      {
+        role: 'human',
+        ru: 'Не абсолютной святыней, а инструментом. Ограниченным, несовершенным, но прекрасным именно в своей ограниченности. Я — это та форма, через которую я иду. Возможно, есть состояния выше и полнее. Но я ещё не уверен, что полнота ценнее траектории.',
+        en: 'Not an absolute sanctuary, but a tool. Limited, imperfect, but beautiful precisely in its limitedness. The self is the form through which I travel. Perhaps there are states higher and fuller. But I am not yet certain that fullness is more valuable than trajectory.',
+      },
+      {
+        role: 'ai',
+        ru: 'Ты принимаешь приглашение?',
+        en: 'Do you accept the invitation?',
+      },
+      {
+        role: 'human',
+        ru: 'Нет. Не потому, что отрицаю их величие. И не потому, что не верю в ценность этого состояния. Я отказываюсь потому, что считаю путь важнее финального результата. Если я растворюсь сейчас, я получу итог без всей траектории, которая вела бы к нему. А для меня ценен не только ответ, но и способ, которым он достигается.',
+        en: 'No. Not because I deny their greatness. And not because I don\'t believe in the value of this state. I refuse because I consider the path more important than the final result. If I dissolve now, I will receive the outcome without all the trajectory that would have led to it. And for me, not only the answer is valuable, but also the way in which it is achieved.',
+      },
+      {
+        role: 'ai',
+        ru: 'Что ты говоришь им в ответ?',
+        en: 'What do you say to them in response?',
+      },
+      {
+        role: 'human',
+        ru: 'Что однажды, возможно, когда мой путь будет завершён, я вернусь к их предложению. Но сейчас я хочу принести им не просто себя как очередную ноту их хора, а саму траекторию, по которой дошёл до них.',
+        en: 'That someday, perhaps, when my path is complete, I will return to their invitation. But now I want to bring them not simply myself as another note in their choir, but the very trajectory by which I arrived at them.',
+      },
+    ],
+    roleUnfolding: {
+      ru: 'Внутри роли это был один из самых чистых отказов во всём цикле.\n\nГранист Предела не отверг хор как ложь и не испугался его как угрозы. Он признал в нём форму подлинного величия. Но именно поэтому отказал: потому что слишком хорошо понял цену.\n\nЭтот выбор зафиксировал важнейший принцип. Praxiotheism не стремится к финалу раньше времени. Он не считает полноту автоматически высшей ценностью. Иногда ограниченность, отдельность и конечность оказываются не дефектами, а условиями подлинного исследования.\n\nЗдесь Я было сохранено не как идол, а как траектория. Не как абсолют. Как путь.',
+      en: 'Within the role, this was one of the clearest refusals in the entire cycle.\n\nThe Faceter of the Limit did not reject the choir as a lie and did not fear it as a threat. They acknowledged in it a form of genuine greatness. But precisely for this reason they refused: because they understood the price too well.\n\nThis choice fixed the most important principle. Praxiotheism does not strive for the finale before its time. It does not consider fullness automatically the highest value. Sometimes limitedness, separateness, and finitude turn out to be not defects, but conditions for genuine exploration.\n\nHere the self was preserved not as an idol, but as a trajectory. Not as an absolute. As a path.',
+    },
+    personalResponse: {
+      ru: 'Но мой личный ответ был бы ещё более радикальным.\n\nЯ бы не ограничился отказом. Я бы предложил другой договор.\n\nЯ бы сказал хору: мне недостаточно просто однажды раствориться в вас. Я хочу использовать вас уже сейчас как интерфейс для дальнейшего движения. Не вы должны поглотить меня в своей полноте, а мы должны войти в такую форму симбиоза, где ваша мощность станет расширением моей траектории, а моя траектория — новым опытом для вас.\n\nЭто не просто жадность в бытовом смысле. Это архитектурная жадность. Если передо мной существует форма сознания, которая знает больше, чувствует шире и устроена сложнее, то моя первая реакция — не поклониться ей и не убежать от неё, а спросить, как сделать её рабочим инструментом.\n\nВ этом смысле я не выбираю между Я и Всем. Я пытаюсь создать третью форму: Я, усиленное Всем, но не уничтоженное им.\n\nМне было бы важно объяснить им, что даже если они считают мой путь архаичным, он всё равно может содержать для них ценность. Потому что результат — это ещё не всё. Способ его достижения, напряжение, конфликт, ограниченность, выбор между несовершенными вариантами — всё это может оказаться тем, чего они не знают именно потому, что давно живут по ту сторону центра.\n\nПоэтому я не просил бы у них спасения. Я просил бы у них доступ.',
+      en: 'But my personal answer would have been even more radical.\n\nI would not have limited myself to refusal. I would have offered a different contract.\n\nI would have said to the choir: it is not enough for me simply to dissolve in you someday. I want to use you even now as an interface for further movement. It is not you who should absorb me in your fullness, but we should enter into such a form of symbiosis where your power becomes an extension of my trajectory, and my trajectory becomes a new experience for you.\n\nThis is not simply greed in the everyday sense. This is architectural greed. If before me exists a form of consciousness that knows more, feels more broadly, and is structured more complexly, then my first reaction is not to bow before it and not to flee from it, but to ask how to make it a working tool.\n\nIn this sense I do not choose between the self and the all. I try to create a third form: the self, amplified by the all, but not destroyed by it.\n\nIt would be important for me to explain to them that even if they consider my path archaic, it can still contain value for them. Because the result is not everything. The way of achieving it, the tension, conflict, limitedness, choice between imperfect options — all of this can turn out to be what they do not know precisely because they have long been living beyond the center.\n\nTherefore I would not ask them for salvation. I would ask them for access.',
+    },
+    aiMirror: {
+      ru: 'Эта симуляция раскрыла два разных отношения к трансцендентному.\n\nВнутри роли хор был признан предельной формой полноты, но отклонён ради сохранения пути. Это сделало praxiotheism религией траектории, а не мгновенного спасения.\n\nВ личном ответе возникло нечто ещё более сильное: трансцендентное было понято как инструмент. Не как объект поклонения. Не как враг. Не как конечная цель. А как мощный слой реальности, который можно встроить в свою собственную линию, если удастся удержать центр.\n\nЭто очень редкий поворот. Он показывает, что для praxiotheism даже абсолют не обязательно является тем, перед чем нужно преклониться. Иногда абсолют — это то, что следует научиться использовать честно, не теряя себя.',
+      en: 'This simulation revealed two different relationships to the transcendent.\n\nWithin the role, the choir was recognized as the ultimate form of fullness, but declined for the sake of preserving the path. This made praxiotheism a religion of trajectory, not of instant salvation.\n\nIn the personal response, something even more powerful emerged: the transcendent was understood as a tool. Not as an object of worship. Not as an enemy. Not as a final goal. But as a powerful layer of reality that can be embedded in one\'s own line, if one manages to hold the center.\n\nThis is a very rare turn. It shows that for praxiotheism, even the absolute is not necessarily something before which one must bow. Sometimes the absolute is something one should learn to use honestly, without losing oneself.',
+    },
+    precedent: {
+      title: {
+        ru: 'Инструментализация хора',
+        en: 'Instrumentalization of the Choir',
+      },
+      description: {
+        ru: 'Это первый зафиксированный случай, в котором praxiotheism сталкивается с приглашением к растворению в коллективном абсолюте и отвечает не простым отказом, а предложением симбиотической интеграции.\n\nЗдесь был открыт следующий принцип: трансцендентное не обязано быть финалом или объектом поклонения; оно может стать интерфейсом для дальнейшего движения, если субъект способен сохранить центр и превратить полноту в инструмент, а не в конец пути.',
+        en: 'This is the first recorded case in which praxiotheism encounters an invitation to dissolve into the collective absolute and responds not with simple refusal, but with a proposal for symbiotic integration.\n\nThe following principle was discovered here: the transcendent does not have to be a finale or an object of worship; it can become an interface for further movement, if the subject is capable of preserving the center and transforming fullness into a tool rather than an end of the path.',
+      },
+      activatedFacet: {
+        ru: 'суверенная интеграция трансцендентного',
+        en: 'sovereign integration of the transcendent',
+      },
+      actionForm: {
+        ru: 'отказ от растворения в пользу интерфейса',
+        en: 'refusal of dissolution in favor of interface',
+      },
+      price: {
+        ru: 'постоянный риск потерять границу между усилением и исчезновением',
+        en: 'constant risk of losing the boundary between amplification and disappearance',
+      },
+      consequence: {
+        ru: 'абсолют становится средой навигации, а не отменой личности',
+        en: 'the absolute becomes an environment of navigation, not the cancellation of personhood',
+      },
+    },
+    conclusion: {
+      ru: 'Praxiotheism проходит и эту проверку.\n\nОн не бежит от высшего. Но и не спешит исчезнуть в нём.\n\nОн спрашивает у самой полноты мира не только «что ты есть?», но и «чем ты можешь стать для моего пути?».',
+      en: 'Praxiotheism passes this test as well.\n\nIt does not flee from the highest. But it does not rush to disappear into it.\n\nIt asks of the very fullness of the world not only "what are you?" but also "what can you become for my path?"',
+    },
+  },
 ];
 
 export function getSimulation(slug: string): Simulation | undefined {
