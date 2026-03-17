@@ -42,25 +42,15 @@ async function loadManifest(locale: string, type: 'copy' | 'ai' = 'copy') {
   return '';
 }
 
-function ChatGPTMenuItem({
-  manifestText,
-  label,
-}: {
-  manifestText: string;
-  label: string;
-}) {
-  const handleClick = () => {
-    if (manifestText) {
-      navigator.clipboard.writeText(manifestText).catch(() => {});
-    }
-  };
-
-  return (
+const menuItems = {
+  chatgpt: (manifestText: string, label: string) => (
     <a
       href={`https://chatgpt.com/?q=${CHATGPT_INTRO}`}
       target='_blank'
       rel='noopener noreferrer'
-      onClick={handleClick}
+      onClick={() => {
+        if (manifestText) navigator.clipboard.writeText(manifestText).catch(() => {});
+      }}
     >
       <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' className='size-4 shrink-0'>
         <path
@@ -70,11 +60,8 @@ function ChatGPTMenuItem({
       </svg>
       {label}
     </a>
-  );
-}
-
-const menuItems = {
-  claude: (manifestText: string, openInClaude: string) => (
+  ),
+  claude: (manifestText: string, label: string) => (
     <a
       href={`https://claude.ai/new?q=${encodeURIComponent(manifestText)}`}
       target='_blank'
@@ -86,7 +73,7 @@ const menuItems = {
           fill='currentColor'
         />
       </svg>
-      {openInClaude}
+      {label}
     </a>
   ),
 };
@@ -147,10 +134,7 @@ export function CopyButton() {
         </DropdownMenuTrigger>
         <DropdownMenuContent align='end' className='shadow-none'>
           <DropdownMenuItem asChild disabled={!aiManifestText}>
-            <ChatGPTMenuItem
-              manifestText={aiManifestText}
-              label={t('openInChatGPT')}
-            />
+            {menuItems.chatgpt(aiManifestText, t('openInChatGPT'))}
           </DropdownMenuItem>
           <DropdownMenuItem asChild disabled={!aiManifestText}>
             {menuItems.claude(aiManifestText, t('openInClaude'))}
@@ -178,10 +162,7 @@ export function CopyButton() {
             className='*:[svg]:text-muted-foreground w-full justify-start text-base font-normal'
             disabled={!aiManifestText}
           >
-            <ChatGPTMenuItem
-              manifestText={aiManifestText}
-              label={t('openInChatGPT')}
-            />
+            {menuItems.chatgpt(aiManifestText, t('openInChatGPT'))}
           </Button>
           <Button
             variant='ghost'
